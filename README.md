@@ -1,2 +1,2 @@
-# Redakciatest
+# Redakcia
 testt
