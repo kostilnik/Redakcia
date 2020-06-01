@@ -7,5 +7,7 @@ uvod 1
 uvod 2
 ----
 Tento text predstavuje OBSAH clanku.
+obsah 1
+obsah 2
 ----
 Tento text predstavuje ZAVER clanku.
