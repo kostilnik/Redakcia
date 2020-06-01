@@ -2,8 +2,12 @@ Autor: Martin Kostilník
 Nazov: Nazov clanku ver 1
 Datum: 1.6.2020
 ----
-Tento text predstavuje UVOD clanku. 
+Tento text predstavuje UVOD clanku.
+uvod 1
+uvod 2
 ----
 Tento text predstavuje OBSAH clanku.
+obsah 1
+obsah 2
 ----
 Tento text predstavuje ZAVER clanku.
