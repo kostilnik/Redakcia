@@ -2,12 +2,12 @@ Autor: Martin Kostilník
 Nazov: Nazov clanku ver 1
 Datum: 1.6.2020
 ----
-Tento text predstavuje UVOD clanku.
-uvod 1
-uvod 2
+Dvojkolky su best.
+Dvojkolesové automobily sú super na jazdu.
+Najlepšie na zadnom kolese
 ----
-Tento text predstavuje OBSAH clanku.
-obsah 1
-obsah 2
+Dvojkolesové automobily.
+Najlepšie čo môže byť
+Ďalšia chvála dvojkolkoch.
 ----
 Tento text predstavuje ZAVER clanku.
