@@ -2,23 +2,14 @@ Autor: Martin Kostilník
 Nazov: Nazov clanku ver 1
 Datum: 1.6.2020
 ----
-<<<<<<< HEAD:Clanok1.txt
 Dvojkolky su best.
 Dvojkolesové automobily sú super na jazdu.
 Najlepšie na zadnom kolese
-=======
-Dvojkolesové automobily sa začali vyrabať v Rusku
-Lebo Rusko nie je štát
-Rusko je životný štyl
->>>>>>> origin/Clanok1_v.2_development:Clanok1 v2.txt
 ----
 Najvac OP vec čo môže byť.
 Keď neznaš na biku na sebe nezajazdiš
 Furt lepšie jak kolobežka.
 ----
-<<<<<<< HEAD:Clanok1.txt
-=======
 Lepšejšie jak bicykel.
 Lacnejšie jak motorka.
 To je dvojkolka :D.
->>>>>>> origin/Clanok1_v.2_development:Clanok1 v2.txt
