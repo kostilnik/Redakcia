@@ -2,12 +2,12 @@ Autor: Martin Kostilník
 Nazov: Nazov clanku ver 2
 Datum: 1.6.2020
 ----
-Tento text predstavuje UVOD clanku.
-uvod 1
-uvod 2
+Dvojkolesové automobily 4 Ever
+Zadne koleso 3 krat väčšie jak predne
+Najlepšie čo môže byť
 ----
-Tento text predstavuje OBSAH clanku.
-obsah 1
-obsah 2
+Najvac OP vec čo môže byť.
+Keď neznaš na biku na sebe nezajazdiš
+Furt lepšie jak kolobežka.
 ----
 Tento text predstavuje ZAVER clanku.
